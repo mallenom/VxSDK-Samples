@@ -108,7 +108,7 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>_WIN32_WINNT=0x0501;WIN32;_EXPORTING;_DEBUG;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>$(ProjectDir)ThirdParty\Boost\1.62.0.0\Include;Include;$(ProgramFiles)\Pelco\VideoXpertSDK\SDK\$(PlatformTarget)\$(Configuration)\Include;$(ProjectDir)\ThirdParty\GStreamer\1.8.1\$(PlatformTarget)\gstreamer_devel\include\libsoup-2.4;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)ThirdParty\Boost\1.62.0.0\Include;Include;$(ProgramFiles)\Pelco\VideoXpertSDK\SDK\$(PlatformTarget)\$(Configuration)\Include;$(ProjectDir)\ThirdParty\GStreamer\1.8.1\$(PlatformTarget)\gstreamer_devel\include\libsoup-2.4;C:\Program Files %28x86%29\Pelco\VideoXpertSDK\SDK\$(PlatformTarget)\$(Configuration)\Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <DisableSpecificWarnings>4267;4018;%(DisableSpecificWarnings)</DisableSpecificWarnings>
       <AdditionalOptions>-D_SCL_SECURE_NO_WARNINGS %(AdditionalOptions)</AdditionalOptions>
       <GenerateXMLDocumentationFiles>true</GenerateXMLDocumentationFiles>
@@ -127,7 +127,7 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>_WIN32_WINNT=0x0501;WIN32;_EXPORTING;_DEBUG;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>$(ProjectDir)ThirdParty\Boost\1.62.0.0\Include;Include;$(ProgramFiles)\Pelco\VideoXpertSDK\SDK\$(PlatformTarget)\$(Configuration)\Include;$(ProjectDir)\ThirdParty\GStreamer\1.8.1\$(PlatformTarget)\gstreamer_devel\include\libsoup-2.4;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)ThirdParty\Boost\1.62.0.0\Include;Include;$(ProgramFiles)\Pelco\VideoXpertSDK\SDK\$(PlatformTarget)\$(Configuration)\Include;$(ProjectDir)\ThirdParty\GStreamer\1.8.1\$(PlatformTarget)\gstreamer_devel\include\libsoup-2.4;C:\Program Files %28x86%29\Pelco\VideoXpertSDK\SDK\$(PlatformTarget)\$(Configuration)\Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <DisableSpecificWarnings>4267;4018;%(DisableSpecificWarnings)</DisableSpecificWarnings>
       <AdditionalOptions>-D_SCL_SECURE_NO_WARNINGS %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
@@ -147,7 +147,7 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <PreprocessorDefinitions>_WIN32_WINNT=0x0501;WIN32;_EXPORTING;NDEBUG;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>$(ProjectDir)ThirdParty\Boost\1.62.0.0\Include;Include;$(ProgramFiles)\Pelco\VideoXpertSDK\SDK\$(PlatformTarget)\$(Configuration)\Include;$(ProjectDir)\ThirdParty\GStreamer\1.8.1\$(PlatformTarget)\gstreamer_devel\include\libsoup-2.4;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)ThirdParty\Boost\1.62.0.0\Include;Include;$(ProgramFiles)\Pelco\VideoXpertSDK\SDK\$(PlatformTarget)\$(Configuration)\Include;$(ProjectDir)\ThirdParty\GStreamer\1.8.1\$(PlatformTarget)\gstreamer_devel\include\libsoup-2.4;C:\Program Files %28x86%29\Pelco\VideoXpertSDK\SDK\$(PlatformTarget)\$(Configuration)\Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <DisableSpecificWarnings>4267;4018;%(DisableSpecificWarnings)</DisableSpecificWarnings>
       <AdditionalOptions>-D_SCL_SECURE_NO_WARNINGS %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
@@ -170,7 +170,7 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <PreprocessorDefinitions>_WIN32_WINNT=0x0501;WIN32;_EXPORTING;NDEBUG;_WINDOWS;_USRDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>$(ProjectDir)ThirdParty\Boost\1.62.0.0\Include;Include;$(ProgramFiles)\Pelco\VideoXpertSDK\SDK\$(PlatformTarget)\$(Configuration)\Include;$(ProjectDir)\ThirdParty\GStreamer\1.8.1\$(PlatformTarget)\gstreamer_devel\include\libsoup-2.4;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)ThirdParty\Boost\1.62.0.0\Include;Include;$(ProgramFiles)\Pelco\VideoXpertSDK\SDK\$(PlatformTarget)\$(Configuration)\Include;$(ProjectDir)\ThirdParty\GStreamer\1.8.1\$(PlatformTarget)\gstreamer_devel\include\libsoup-2.4;C:\Program Files %28x86%29\Pelco\VideoXpertSDK\SDK\$(PlatformTarget)\$(Configuration)\Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <DisableSpecificWarnings>4267;4018;%(DisableSpecificWarnings)</DisableSpecificWarnings>
       <AdditionalOptions>-D_SCL_SECURE_NO_WARNINGS %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
